@@ -2,7 +2,7 @@
 
 
 # Example Neural Network in PyTorch
-
+## 1. XOR NET
 ## Introduction
 
 This very simple, elementary example shows the PyTorch example for learning the very simple pattern XOR logical pattern. 
