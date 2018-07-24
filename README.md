@@ -11,7 +11,7 @@ XOR may seem like a simple operation to learn, but its history is rich. In fact 
 
 ## Installing
 
-Please install [anaconda](https://www.continuum.io/downloads) first and the pre-requisites for [PyTorch](http://www.pytorch.org
+Please install [anaconda](https://www.continuum.io/downloads) first and the pre-requisites for [PyTorch](http://www.pytorch.org)
 
 
 
